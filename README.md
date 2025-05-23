@@ -14,7 +14,7 @@ With the growing adoption of electric vehicles, effective charging station sched
 Each algorithm is tested and analyzed using simulated vehicle and station data to identify strengths and weaknesses in different traffic conditions.
 
 ## 📂 Repository Structure
-
+```bash
 📦 Comparison-of-Electric-Vehicle-Charging-Scheduling-Algorithms
 ├── EFT.py # Earliest Finish Time scheduling
 ├── EST.py # Earliest Start Time scheduling
@@ -22,6 +22,7 @@ Each algorithm is tested and analyzed using simulated vehicle and station data t
 ├── DQN.py # Deep Q-Network-based scheduling
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚙️ Simulation Settings
 
