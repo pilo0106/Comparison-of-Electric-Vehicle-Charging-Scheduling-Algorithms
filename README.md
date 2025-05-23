@@ -20,7 +20,6 @@ Each algorithm is tested and analyzed using simulated vehicle and station data t
 ├── EST.py # Earliest Start Time scheduling
 ├── PSO.py # Particle Swarm Optimization-based scheduling
 ├── DQN.py # Deep Q-Network-based scheduling
-├── requirements.txt
 └── README.md
 ```
 
